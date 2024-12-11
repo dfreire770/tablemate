@@ -2,7 +2,7 @@
 
 TableMate is a React Native application designed to simplify bill splitting during meals. The app allows users to manage and distribute costs among group of customers with ease, making it an essential tool for dining out or shared expenses.
 
-<img width="315" alt="image" src="https://github.com/user-attachments/assets/2eeb359c-3d49-4d89-be99-24c6299ac06b" />
+<img width="309" alt="image" src="https://github.com/user-attachments/assets/a6992dcb-a745-4a26-9234-f345fd99a691" />
 
 ## Features
 
